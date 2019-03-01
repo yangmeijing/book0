@@ -1,0 +1,24 @@
+{
+  "name": "book0",
+  "version": "1.0.0",
+  "description": "电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangmeijing/book0.git"
+  },
+  "author": "yangmeijing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangmeijing/book0/issues"
+  },
+  "homepage": "https://github.com/yangmeijing/book0#readme"
+    "devDependencies": {
+              "gitbook-cli": "^2.3.2"
+                            
+                  
+    }  
+}
