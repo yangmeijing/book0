@@ -15,10 +15,10 @@
   "bugs": {
     "url": "https://github.com/yangmeijing/book0/issues"
   },
-  "homepage": "https://github.com/yangmeijing/book0#readme"
-    "devDependencies": {
-              "gitbook-cli": "^2.3.2"
+  "homepage": "https://github.com/yangmeijing/book0#readme",
+  "devDependencies":{
+      "gitbook-cli": "^2.3.2"
                             
                   
-    }  
+  }  
 }
